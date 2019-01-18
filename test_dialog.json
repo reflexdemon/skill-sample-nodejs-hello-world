@@ -1,0 +1,9 @@
+{
+    "skillId":"amzn1.ask.skill.189b8498-021b-462c-9ffd-e77fd70facd5",
+    "locale": "en-US",
+    "type": "text",
+    "userInput": [
+                    "open vpv testing",
+                    "hello"
+                ]
+}
