@@ -1,6 +1,18 @@
 # Build An Alexa Hello World Skill
 <img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
 
+### Output
+
+```
+❯ ask dialog -r test_dialog.json -o logs/output.log
+  [Info]: Replaying file test_dialog.json.
+  User  >  open vpv testing
+  Alexa >  Welcome to the Alexa Skills Kit, you can say hello!
+  User  >  hello
+  Alexa >  Hello World!
+  User  >
+```
+
 ### This is a simple tutorial to introduce a simple Alexa skill and code.
 
 This tutorial will walk first-time Alexa skills developers through all the required steps involved in creating a skill using this hello world template, called ‘hello world’. This post assumes you have some familiarity with JavaScript/Node.js (or a similar programming language) and the Alexa Skills Kit.
